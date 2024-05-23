@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "WiFiWirelessSDK"
-  spec.version      = "0.1.2"
+  spec.version      = "0.0.1"
   spec.summary      = "WiFi Wireless Inc"
 
   spec.description  = "This is a private repo for wifi wireless inc"
